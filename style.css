@@ -16,7 +16,7 @@ div {
 }
 
 body {
-  background-color: rgb(36, 36, 23);
+  background-color: white;
 }
 
 h1 {
@@ -31,4 +31,3 @@ p {
   font-size: 16pt;
   font-family: 'Open Sans', sans-serif;
 }
-
